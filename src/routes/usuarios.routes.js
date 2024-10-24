@@ -1,7 +1,7 @@
 import { Router } from "express";
 
-const planetasRoutes = Router();
+const usuariosRoutes = Router();
 
-let usuarios = []
+let usuarios = [];
 
 export default usuariosRoutes;
